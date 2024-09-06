@@ -1,0 +1,1 @@
+import{C as e}from"./index-Z5ZkrB-4.js";const o="/assets/icon_spy-BtBVED9B.png",t={name:"Spy",icon:o,type:e.Minion,ability:"Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",action:[]};export{t as default};

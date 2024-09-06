@@ -1,0 +1,1 @@
+import{C as a,a as e}from"./index-Z5ZkrB-4.js";const o="/assets/icon_clockmaker-DvPk7O6i.png",n={name:"Clockmaker",icon:o,type:a.Townsfolk,ability:"You start knowing how many steps from the Demon to its nearest Minion.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"clockmaker"]," learned a ?"]};export{n as default};
