@@ -1,1 +1,0 @@
-import{C as i,a as e}from"./index-Z5ZkrB-4.js";const a="/assets/icon_virgin-Dm2DrPgF.png",t={name:"Virgin",icon:a,type:i.Townsfolk,ability:"The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"virgin"]," was nominated by ",[e.Player,-1]]};export{t as default};

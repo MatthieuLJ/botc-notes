@@ -1,1 +1,0 @@
-import{C as o}from"./index-Z5ZkrB-4.js";const t="/assets/icon_drunk-D-ZiB0cD.png",a={name:"Drunk",icon:t,type:o.Outsider,ability:"You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.",action:[]};export{a as default};

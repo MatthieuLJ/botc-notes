@@ -1,1 +1,0 @@
-import{C as a,a as e}from"./index-Z5ZkrB-4.js";const n="/assets/icon_towncrier-CWSZ-lHg.png",i={name:"Town crier",icon:n,type:a.Townsfolk,ability:"Each night*, you learn if a Minion nominated today.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"town crier"]," learned ?"]};export{i as default};
