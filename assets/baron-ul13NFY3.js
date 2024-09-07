@@ -1,1 +1,0 @@
-import{C as a}from"./index-Z5ZkrB-4.js";const e="/assets/icon_baron-DV3lPbIb.png",r={name:"Baron",icon:e,type:a.Minion,ability:"There are extra Outsiders in play. [+2 Outsiders]",action:[]};export{r as default};

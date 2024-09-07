@@ -1,1 +1,0 @@
-import{C as a,a as e}from"./index-Z5ZkrB-4.js";const t="/assets/icon_klutz-DZbDRrt9.png",i={name:"Klutz",icon:t,type:a.Outsider,ability:"When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"klutz"]," picked ",[e.Player,-1]]};export{i as default};

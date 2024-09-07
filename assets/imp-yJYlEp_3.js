@@ -1,1 +1,0 @@
-import{C as a,a as e}from"./index-Z5ZkrB-4.js";const i="/assets/icon_imp-CAoRPV-N.png",p={name:"Imp",icon:i,type:a.Demon,ability:"Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"Imp"]," killed player ",[e.Player,-1]]};export{p as default};
