@@ -1,1 +1,0 @@
-import{C as e}from"./index-C4124q9A.js";const s="/botc-notes/assets/icon_recluse-Dx1fdbUp.png",i={name:"Recluse",icon:s,type:e.Outsider,ability:"You might register as evil & as a Minion or Demon, even if dead.",action:[]};export{i as default};

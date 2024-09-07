@@ -1,1 +1,0 @@
-import{C as o,a as e}from"./index-C4124q9A.js";const a="/botc-notes/assets/icon_flowergirl-Blg540NS.png",r={name:"Flowergirl",icon:a,type:o.Townsfolk,ability:"Each night*, you learn if a Demon voted today.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"flowergirl"]," learned ?"]};export{r as default};
