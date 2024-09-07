@@ -1,0 +1,1 @@
+import{C as a,a as e}from"./index-Z5ZkrB-4.js";const t="/assets/icon_sweetheart-BgTtpYRw.png",n={name:"Sweetheart",icon:t,type:a.Outsider,ability:"When you die, 1 player is drunk from now on.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"sweetheart"]," died and made ",[e.Player,-1]," drunk"]};export{n as default};
