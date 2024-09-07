@@ -1,1 +1,0 @@
-import{C as a,a as e}from"./index-C6uhJHXu.js";const t="/botc-notes/assets/icon_slayer-oH6nlFZp.png",s={name:"Slayer",icon:t,type:a.Townsfolk,ability:"The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"slayer"]," shot ",[e.Player,-1]]};export{s as default};
