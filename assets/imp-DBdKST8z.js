@@ -1,0 +1,1 @@
+import{C as a,a as e}from"./index-C4124q9A.js";const o="/botc-notes/assets/icon_imp-CAoRPV-N.png",t={name:"Imp",icon:o,type:a.Demon,ability:"Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"Imp"]," killed player ",[e.Player,-1]]};export{t as default};

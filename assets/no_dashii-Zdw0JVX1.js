@@ -1,0 +1,1 @@
+import{C as a,a as e}from"./index-C4124q9A.js";const o="/botc-notes/assets/icon_nodashii-SwT6bcel.png",s={name:"No Dashii",icon:o,type:a.Demon,ability:"ach night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"No Dashii"]," killed player ",[e.Player,-1]]};export{s as default};
