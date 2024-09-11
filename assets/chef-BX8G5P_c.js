@@ -1,0 +1,1 @@
+import{C as a,a as e}from"./index-CvWzqUD9.js";const o="/botc-notes/assets/icon_chef-F_eB2cfv.png",n={name:"Chef",icon:o,type:a.Townsfolk,ability:"You start knowing how many pairs of evil players there are.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"chef"]," learned a ?"]};export{n as default};
