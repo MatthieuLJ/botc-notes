@@ -1,1 +1,0 @@
-import{C as o}from"./index-CvWzqUD9.js";const t="/botc-notes/assets/icon_mayor-Yd7OjZAF.png",e={name:"Mayor",icon:t,type:o.Townsfolk,ability:"If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",action:[]};export{e as default};

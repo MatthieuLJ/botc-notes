@@ -1,1 +1,0 @@
-import{C as o,a as e}from"./index-CvWzqUD9.js";const t="/botc-notes/assets/icon_monk-DjjNW8Kk.png",n={name:"Monk",icon:t,type:o.Townsfolk,ability:"Each night*, choose a player (not yourself): they are safe from the Demon tonight.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"monk"]," protected ",[e.Player,-1]]};export{n as default};
