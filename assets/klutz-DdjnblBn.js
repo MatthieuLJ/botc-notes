@@ -1,0 +1,1 @@
+import{C as t,a as e}from"./index-Bo6U9F0u.js";const a="/botc-notes/assets/icon_klutz-DZbDRrt9.png",o={name:"Klutz",icon:a,type:t.Outsider,ability:"When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"klutz"]," picked ",[e.Player,-1]]};export{o as default};
