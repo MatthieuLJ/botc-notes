@@ -1,0 +1,1 @@
+import{C as o}from"./index-D6704G0X.js";const e="/botc-notes/assets/icon_soldier-DCboEJD1.png",s={name:"Solder",icon:e,type:o.Townsfolk,ability:"You are safe from the Demon.",action:[]};export{s as default};

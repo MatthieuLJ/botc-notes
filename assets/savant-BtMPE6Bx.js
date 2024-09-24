@@ -1,1 +1,0 @@
-import{C as t,a}from"./index-jSDJZQtv.js";const e="/botc-notes/assets/icon_savant-C4QSYyI7.png",n={name:"Savant",icon:e,type:t.Townsfolk,ability:"Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false.",action:["On",[a.Time,-1],", player ",[a.Player,-1]," as the ",[a.Role,"savant"]," learned that either ? or ?"]};export{n as default};
