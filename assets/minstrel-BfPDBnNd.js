@@ -1,0 +1,1 @@
+import{C as e}from"./index-0SCVWIM8.js";const t="/botc-notes/assets/icon_minstrel-CDnypiE-.png",o={name:"Minstrel",icon:t,type:e.Townsfolk,ability:"When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow.",action:[]};export{o as default};

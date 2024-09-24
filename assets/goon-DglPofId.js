@@ -1,1 +1,0 @@
-import{C as t}from"./index-D6704G0X.js";const o="/botc-notes/assets/icon_goon-BL_BBaF-.png",i={name:"Goon",icon:o,type:t.Outsider,ability:"Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment.",action:[]};export{i as default};
