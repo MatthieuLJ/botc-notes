@@ -1,1 +1,0 @@
-import{C as e,a as o}from"./index-CnklXvMN.js";const a="/botc-notes/assets/icon_poisoner-BS3aqutu.png",i={name:"Poisoner",icon:a,type:e.Minion,ability:"Each night, choose a player: they are poisoned tonight and tomorrow day.",action:["On",[o.Time,-1],", player ",[o.Player,-1]," as the ",[o.Role,"poisoner"]," poisoned ",[o.Player,-1]," "]};export{i as default};

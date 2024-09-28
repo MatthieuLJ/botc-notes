@@ -1,0 +1,1 @@
+import{C as s,a}from"./index-B56zH18h.js";const e="/botc-notes/assets/Icon_gossip-BvI7CDzo.png",t={name:"Gossip",icon:e,type:s.Townsfolk,ability:"Each day, you may make a public statement. Tonight, if it was true, a player dies.",action:["On",[a.Time,-1],", player ",[a.Player,-1]," as the ",[a.Role,"gossip"]," gossiped that ?"]};export{t as default};
