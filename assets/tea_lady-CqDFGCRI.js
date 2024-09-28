@@ -1,1 +1,0 @@
-import{C as a}from"./index-B56zH18h.js";const t="/botc-notes/assets/icon_tealady-Di6t6DIa.png",e={name:"Tea Lady",icon:t,type:a.Townsfolk,ability:"If both your alive neighbors are good, they can't die.",action:[]};export{e as default};
