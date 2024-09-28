@@ -1,0 +1,1 @@
+import{C as e,a as t}from"./index-DSPPxn5Z.js";const a="/botc-notes/assets/icon_artist-86upsVZQ.png",r={name:"Artist",icon:a,type:e.Townsfolk,ability:"Once per game, during the day, privately ask the Storyteller any yes/no question.",action:["On",[t.Time,-1],", player ",[t.Player,-1]," as the ",[t.Role,"artist"]," learn that "]};export{r as default};
