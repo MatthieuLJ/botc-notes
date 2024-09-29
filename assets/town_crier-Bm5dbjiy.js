@@ -1,1 +1,0 @@
-import{C as n,a as e}from"./index-DSPPxn5Z.js";const o="/botc-notes/assets/icon_towncrier-CWSZ-lHg.png",t={name:"Town crier",icon:o,type:n.Townsfolk,ability:"Each night*, you learn if a Minion nominated today.",action:["On",[e.Time,-1],", player ",[e.Player,-1]," as the ",[e.Role,"town_crier"]," learned ?"]};export{t as default};

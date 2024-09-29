@@ -1,1 +1,0 @@
-import{C as t}from"./index-DSPPxn5Z.js";const i="/botc-notes/assets/icon_pacifist-DCY-Tdg_.png",a={name:"Pacifist",icon:i,type:t.Townsfolk,ability:"Executed good players might not die.",action:[]};export{a as default};

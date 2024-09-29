@@ -1,0 +1,1 @@
+import{C as t}from"./index-xItrSXZf.js";const e="/botc-notes/assets/icon_tinker-CZ0kYpz-.png",n={name:"Tinker",icon:e,type:t.Outsider,ability:"You might die at any time.",action:[]};export{n as default};
