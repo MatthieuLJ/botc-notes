@@ -1,0 +1,1 @@
+import{C as o}from"./role-BNc36tb4.js";const e="/botc-notes/assets/icon_spy-BtBVED9B.png",i={name:"Spy",icon:e,type:o.Minion,ability:"Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",action:[]};export{i as default};

@@ -1,0 +1,1 @@
+import{C as o}from"./role-BNc36tb4.js";const t="/botc-notes/assets/icon_lunatic-CfMNfeEv.png",e={name:"Lunatic",icon:t,type:o.Outsider,ability:"You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",action:[]};export{e as default};

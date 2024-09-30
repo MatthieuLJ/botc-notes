@@ -1,0 +1,1 @@
+import{C as e}from"./role-BNc36tb4.js";const t="/botc-notes/assets/icon_mastermind-Cvr1dCI9.png",n={name:"Mastermind",icon:t,type:e.Minion,ability:"If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.",action:[]};export{n as default};
