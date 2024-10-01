@@ -1,0 +1,1 @@
+import{C as a}from"./index-CxuhX6vN.js";import{C as e}from"./role-BNc36tb4.js";const o="/botc-notes/assets/icon_empath-CERg4oS7.png",i={name:"Empath",icon:o,type:e.Townsfolk,ability:"Each night, you learn how many of your 2 alive neighbors are evil.",action:["On",[a.Time,-1],", player ",[a.Player,-1]," as the ",[a.Role,"empath"]," learned a ?"]};export{i as default};

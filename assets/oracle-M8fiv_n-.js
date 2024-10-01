@@ -1,0 +1,1 @@
+import{C as a}from"./index-CxuhX6vN.js";import{C as e}from"./role-BNc36tb4.js";const o="/botc-notes/assets/icon_oracle-DB_OsdLI.png",l={name:"Oracle",icon:o,type:e.Townsfolk,ability:"Each night*, you learn how many dead players are evil.",action:["On",[a.Time,-1],", player ",[a.Player,-1]," as the ",[a.Role,"oracle"]," learned a ?"]};export{l as default};
